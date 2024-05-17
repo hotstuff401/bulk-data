@@ -13,7 +13,7 @@ https://www.govinfo.gov/bulkdata
 New in govinfo, you can add /xml or /json to any govinfo bulkdata link to receive the listing in that format.
 
 https://www.govinfo.gov/bulkdata/BILLS/115/1/hjres<br/>
-XML: https://www.govinfo.gov/bulkdata/xml/BILLS/115/1/hjres<br/>
+XML: https://www.govinfo.gov/bulkdata/xml/BILLS/115/1/hjres<br/>/json
 JSON: https://www.govinfo.gov/bulkdata/json/BILLS/115/1/hjres
 
 #### Note
